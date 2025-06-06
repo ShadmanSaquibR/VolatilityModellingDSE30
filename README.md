@@ -34,11 +34,11 @@ The forecasted volatility for the next six months suggests a less volatile perio
 **How to Use**
 To replicate the analysis or run the models:
 
-Download the .dta data files and .do Stata script files from this repository.
+-Download the .dta data files and .do Stata script files from this repository.
 
-Open the .do files in Stata 17 (or a compatible version).
+-Open the .do files in Stata 17 (or a compatible version).
 
-Execute the commands in the .do files sequentially.
+-Execute the commands in the .do files sequentially.
 
 **Contact**
 Shadman Saquib Rahman
