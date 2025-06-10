@@ -1,5 +1,5 @@
 **Modeling and Forecasting Volatility of DS30 Index Using Time Series Models**
-This repository contains the data and Stata do-files used for the internship report titled "Modeling and Forecasting Volatility of DS30 Index Using Time Series Models."
+\nThis repository contains the data and Stata do-files used for the internship report titled "Modeling and Forecasting Volatility of DS30 Index Using Time Series Models."
 
 **Overview**
 This report models the monthly volatility of the DS30 index (Dhaka Stock Exchange 30 index) using time series analysis. The analysis spans from January 2013 to June 2024. Various ARMA-ARCH, ARMA-GARCH, ARMA-EGARCH, and TGARCH models are estimated and compared to identify the most accurate model for estimating the volatility of Bangladesh's primary blue-chip index. The findings are valuable for analysts, portfolio managers, and retail investors seeking to understand and forecast DS30 index volatility.
