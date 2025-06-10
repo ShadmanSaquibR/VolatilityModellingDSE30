@@ -1,6 +1,6 @@
 **Modeling and Forecasting Volatility of DS30 Index Using Time Series Models**  
 
-This repository contains the data and Stata do-files used for the internship report titled _Modeling and Forecasting Volatility of DS30 Index Using Time Series Models._
+This repository contains the data and Stata do-files used for the internship report titled _Modeling and Forecasting Volatility of DS30 Index Using Time Series Models._The full report is labelled _BBReport.pdf_
 
 **Overview**
 
